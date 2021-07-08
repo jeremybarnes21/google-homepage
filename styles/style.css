@@ -1,0 +1,33 @@
+body, input, button {
+    font-size: 14px;
+    font-family: Roboto,arial,sans-serif;
+    color: #222;
+}
+a {
+    color:#222
+}
+.mainbody {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+.topbar {
+    display: flex;
+    align-items: center;
+    padding: 6px;
+}
+.topleft:first-of-type{
+    margin-left: 15px;
+}
+.topleft {
+    display: inline-block;
+    padding: 5px;
+    margin: 0 5px;
+    color: #222;
+}
+.topright {
+    flex-grow: 1;
+}
+.gm_im {
+    padding-left: 15px;
+}
