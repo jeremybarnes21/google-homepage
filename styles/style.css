@@ -43,27 +43,30 @@ a:hover{
 }
 .searchbar {
     margin: 20px auto;
-    padding: 5px;
+    padding: 1em;
     border: 1px solid rgb(206, 206, 206) ;
     border-radius: 20px;
     grid-area: bar;
 }
 input {
     background-color: transparent;
-    padding: 5px;
     Width: 600px;
-    height: 32px;
+    height: 40px;
     box-sizing: border-box;
     border: none;
 }
-
-
 .searchbar:hover {
     box-shadow: 0px 0px 5px grey;
 }
 input:focus{
    outline: 0; 
    opacity: 1;
+}
+#microphone{
+    height: 17.5px;
+    position: absolute;
+    top: 31px;
+    right: 2.5%
 }
 form{
     display:grid;
