@@ -1,1 +1,3 @@
 This is the first project with The Odin Project. 
+I must admit that this project took longer than expected. There was a lot of trial and error. Considering this was my very first project using HTML and CSS, I consider this learning process very valuable. 
+Moving foward, I hope to be able to style elements with much more efficiency. I also hope to make my design resposive to different viewports (this was something that I did not make a huge focus on during this project).
