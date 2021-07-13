@@ -39,6 +39,25 @@ a:hover{
 .gm_im {
     padding-left: 15px;
 }
+.app button{
+    
+    background-color: transparent;
+    border: transparent;
+    opacity: 0.6;
+    margin:0;
+    padding-left:7px;
+}
+.apps{
+    Padding: 8px;
+}
+.apps:hover {
+    background-color:#dfdbdb;
+    border-radius: 50%;
+}
+.profilepic{
+    border-radius: 50%;
+    height: 45px;
+}
 .googlelogo {
     margin: 0 auto;
 }
@@ -95,7 +114,7 @@ form{
 #btn2 {
     grid-area:btn2;
 }
-button {
+.searchbtn {
     padding: 0 16px;
     background-color: #f8f9fa;
     border: 1px solid #f8f9fa;
@@ -109,7 +128,7 @@ button {
     min-width: 54px;
     text-align: center;
 }
-button:hover{
+  .searchbtn:hover{
     box-shadow: 0px 0px 3px grey ;
 }
 .footer {
